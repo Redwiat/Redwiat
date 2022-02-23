@@ -8,14 +8,14 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Redwiat&label=Profile%20views&color=0e75b6&style=plastic" alt="Redwiat" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
+	<a href = "https://commits.top/bangladesh.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Redwiat" target="_blank"/> 
 	</a>
 </p>
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :school: I am currently studying Computer Science and Engineering at the `Mangrove Institute of Science and Technology`
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
