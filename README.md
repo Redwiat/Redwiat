@@ -148,14 +148,20 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Redwiat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Redwiat&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	
 <br/><br/>
+	
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Redwiat&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Redwiat" height="192px"/>
+	
   <br/>
+	
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ----
+
 <br/>
+
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Redwiat&layout=compact&theme=algolia" alt="Redwiat" /></a> </p>
