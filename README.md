@@ -3,6 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
+
 ## :sassy_man:  About me
 - :school: I am currently studying Computer Science and Engineering at the `Mangrove Institute of Science and Technology`
 - :trophy: `ACPC` Finalist 2021
@@ -11,6 +12,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://www.ocoxe.com/p/redwiat.html).
 - :nerd_face: Always `learning new things`
+
 <br>
 ## 🔥 Streak Stats
 <br>
