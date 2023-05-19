@@ -169,6 +169,8 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Redwiat"><img alt="Redwiat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Redwiat&custom_title=Redwiat's%20Contribution%20Graph&theme=react-dark" /></a>
+  <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
   <br/>
 
 
