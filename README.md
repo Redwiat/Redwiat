@@ -12,8 +12,6 @@
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://www.ocoxe.com/p/redwiat.html).
 - :nerd_face: Always `learning new things`
 
-<br>
-
 ## 🔥 Streak Stats
 
 <br>
