@@ -9,7 +9,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://www.ocoxe.com/p/redwiat.html).
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://raw.githubusercontent.com/Redwiat/redwiat.github.io/f69a86fa88e2b97fb0bf8d752a8520b31c636576/img/cv/abdullah-al-redwan.pdf).
 - :nerd_face: Always `learning new things`
 
 ## 🔥 Streak Stats
