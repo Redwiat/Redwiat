@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Abdullah Al Redwan</h1>
-
 <p align="center">
   <b>Most people know me online as <span style="color:#0A66C2;">Redwan</span> or <span style="color:#0A66C2;">Redwiat</span>.</b><br>
   <i>Tech Entrepreneur | Author | CEO at Ocoxe</i>
@@ -7,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Founder+%26+CEO+of+Ocoxe+LLC;Tech+Entrepreneur+and+Author;SaaS+%7C+Web+%7C+Automation+Developer;Business+Student+%7C+Self-taught+Coder;Making+Tech+Simple+for+Everyone;Helping+Businesses+Grow+Online;Always+Learning+New+Things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Founder+%26+CEO+of+Ocoxe+LLC;Tech+Entrepreneur+and+Author;AI+%7C+SaaS+%7C+Full+Stack+Developer;React+%7C+PHP+%7C+Tailwind+%7C+TensorFlow;App+Dev+with+Android+Studio+%26+Xcode;Cybersecurity+%7C+Linux+%7C+Cloud+%7C+Game+Dev;Always+Learning+New+Things&center=true&width=500&height=50">
   </a>
 </p>
 
@@ -15,13 +14,13 @@
 
 ## 🧑‍💼 About Me
 
-- 🚀 **CEO:** [Ocoxe](https://ocoxe.com) — building digital solutions in AI, SaaS, e-commerce & automation  
+- 🚀 **CEO:** [Ocoxe](https://ocoxe.com) — building global digital solutions in AI, SaaS, e-commerce, and automation  
 - 📚 **Author:** [_Essay Android Development: How to Make an Android App From Scratch and Make Money_](https://www.amazon.com/dp/B09CR8WS28)  
-- 🏫 **Education:** Business Studies, Sherpur Govt. Victoria Academy  
-- 💡 **Self-taught coder:** Programming since age 8, passionate about sharing tech with the world  
-- 🌐 **Remote & global:** Delivering projects for clients worldwide  
-- 🛠️ **Mission:** Making tech and automation accessible for everyone  
-- 🌱 Always learning. Always building. Always sharing.
+- 👨‍🎓 **Education:** Business Studies, Sherpur Govt. Victoria Academy  
+- 💻 **Self-taught developer:** Started coding at age 8, passionate about making tech accessible  
+- 🌍 **Remote & global:** Delivering projects for clients worldwide  
+- 🛡️ **Mission:** Empowering businesses and individuals through technology, knowledge, and automation  
+- 🌱 **Always learning, always building, always sharing**
 
 ---
 
@@ -40,55 +39,50 @@
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ My Tech Stack
 
-### 👉 Programming Languages
-
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
-  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
-</p>
-
-### 👉 Frontend Development
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
-</p>
-
-### 👉 Software & Tools
+### 🚩 Languages & Frameworks
 
 <p align="center">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  <a href="#"><img alt="GeeksForGeeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=wordpress&logoColor=white"/>
 </p>
 
-### 👉 IDEs
+### 🚩 AI, ML & Data
 
 <p align="center">
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white"></a>
-  <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white"></a>
-  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white"></a>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"/>
+  <img alt="AI/ML" src="https://img.shields.io/badge/AI%20%7C%20Machine%20Learning-007ACC?style=plastic&logo=ai"/>
+  <img alt="Security" src="https://img.shields.io/badge/Security-23272F?style=plastic&logo=datadog&logoColor=white"/>
 </p>
 
-### 👉 Operating Systems
+### 🚩 App & Game Development
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white"></a>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white"/>
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB.svg?style=plastic&logo=xcode&logoColor=white"/>
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000.svg?style=plastic&logo=ios&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?style=plastic&logo=android&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=plastic&logo=unity&logoColor=white"/>
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=plastic&logo=unrealengine&logoColor=white"/>
+</p>
+
+### 🚩 Cloud, DevOps & OS
+
+<p align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
@@ -111,5 +105,11 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Redwiat&layout=compact&theme=algolia" alt="Redwiat" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Dream big, build smart, and always help others grow.”</b>
 </p>
 
