@@ -15,7 +15,7 @@
 
 ## 🧑‍💼 About Me
 
-- 🚀 **Founder & CEO:** [Ocoxe LLC](https://ocoxe.com) — building digital solutions in AI, SaaS, e-commerce & automation  
+- 🚀 **CEO:** [Ocoxe](https://ocoxe.com) — building digital solutions in AI, SaaS, e-commerce & automation  
 - 📚 **Author:** [_Essay Android Development: How to Make an Android App From Scratch and Make Money_](https://www.amazon.com/dp/B09CR8WS28)  
 - 🏫 **Education:** Business Studies, Sherpur Govt. Victoria Academy  
 - 💡 **Self-taught coder:** Programming since age 8, passionate about sharing tech with the world  
