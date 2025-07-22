@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Most people know me online as <span style="color:#0A66C2;">Redwan</span> or <span style="color:#0A66C2;">Redwiat</span>.</b><br>
-  <i>Tech Entrepreneur | Author | Founder & CEO at Ocoxe LLC</i>
+  <i>Tech Entrepreneur | Author | CEO at Ocoxe</i>
 </p>
 
 <p align="center">
